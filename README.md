@@ -1,5 +1,5 @@
 # DRION-DB-PythonTools
-this a python tools to generate groundtruth of OD image from DRION-DB
+this a python tools to generate OD groundtruth of OD image from DRION-DB
 
 ## how to use
 1. first download DRION-DB from this[1]
