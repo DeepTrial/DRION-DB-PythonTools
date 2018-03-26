@@ -15,9 +15,10 @@ in DRION-DB folder,you will get folder as this:
 * Matlab_Tool
 
 3. put genGT.py with these 3 folders
+
 **Notice: Please Delete _Leeme.txt in experts_annotation folder!**
 
-4. run genGT.py and the result will in gorundtruth folder
+4. run genGT.py and the result will in groundtruth folder
 
 ## About the code
 you can change to show the annotation image to switch *showImage* to True
