@@ -2,7 +2,7 @@
 this a python tools to generate OD groundtruth of OD image from DRION-DB
 
 ## how to use
-1. first download DRION-DB from this[1]
+1. first download DRION-DB from [this][1]
 
 2. extract file
 
