@@ -57,7 +57,7 @@ if __name__=="__main__":
 
 	mkdir(expert1)
 	mkdir(expert2)
-	imageAnnotationFileList = glob.glob('.\\experts_annotation\\*.txt')
+	imageAnnotationFileList = glob.glob('.\\experts_anotation\\*.txt')
 	txt2gt(imageAnnotationFileList,expert1,expert2,showImage)
 
 
